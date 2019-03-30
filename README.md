@@ -1,9 +1,11 @@
+# Ultra Ignorant Aardvark
+
 Generates a random, "AdjectiveAdjectiveAnimal"/"gfycat style" combination of words.
 
 Defaults to a nomenclature of AdjectiveAdjectiveAnimal, but includes options to change complexity.
 
 ```javascript
-const generate = require('adj-adj-noun-gen');
+const generate = require('ultra-ignorant-aardvark');
 
 // UltraIgnorantHawk
 let generatedString = generate();
