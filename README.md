@@ -4,6 +4,14 @@ Generates a random, "AdjectiveAdjectiveAnimal"/"gfycat style" combination of wor
 
 Defaults to a nomenclature of AdjectiveAdjectiveAnimal, but includes options to change complexity.
 
+## Install
+
+```
+$ npm install ultra-ignorant-aardvark
+```
+
+## Usage
+
 ```javascript
 const generate = require('ultra-ignorant-aardvark');
 
